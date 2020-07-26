@@ -1,6 +1,12 @@
 # rosettacode
 Various submissions to the RosettaCode programming chrestomathy site.
 
+## Markov chain text generator
+
+https://github.com/chmykh/rosettacode/blob/master/rosettacode/markov.fsx
+
+https://rosettacode.org/wiki/Markov_chain_text_generator#F.23
+
 ## 15 puzzle 
 
 ### Game
