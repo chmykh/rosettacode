@@ -7,6 +7,12 @@ https://github.com/chmykh/rosettacode/blob/master/rosettacode/markov.fsx
 
 https://rosettacode.org/wiki/Markov_chain_text_generator#F.23
 
+## 2048 game
+
+https://github.com/chmykh/rosettacode/blob/master/rosettacode/2048.fsx
+
+http://rosettacode.org/wiki/2048#F.23
+
 ## 15 puzzle 
 
 ### Game
@@ -32,6 +38,3 @@ As both the interactive game and the automatic solver works on the same domain, 
 https://github.com/chmykh/rosettacode/blob/master/reverse_words.fs
 
 http://rosettacode.org/wiki/Reverse_words_in_a_string#Forth
-
-
-
