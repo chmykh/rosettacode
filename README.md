@@ -44,3 +44,10 @@ As both the interactive game and the automatic solver works on the same domain, 
 https://github.com/chmykh/rosettacode/blob/master/reverse_words.fs
 
 http://rosettacode.org/wiki/Reverse_words_in_a_string#Forth
+
+## Comma quibbling
+
+https://github.com/chmykh/rosettacode/blob/master/comma_quibbling.fs
+
+http://rosettacode.org/wiki/Comma_quibbling#Forth
+
