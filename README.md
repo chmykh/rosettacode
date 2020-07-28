@@ -1,6 +1,12 @@
 # rosettacode
 Various submissions to the RosettaCode programming chrestomathy site.
 
+## Numerical integration
+
+https://github.com/chmykh/rosettacode/blob/master/rosettacode/integration.fsx
+
+http://rosettacode.org/wiki/Numerical_integration#F.23
+
 ## Markov chain text generator
 
 https://github.com/chmykh/rosettacode/blob/master/rosettacode/markov.fsx
