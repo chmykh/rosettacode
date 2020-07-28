@@ -8,6 +8,7 @@
   <ItemGroup>
     <None Include="2048.fsx" />
     <None Include="markov.fsx" />
+    <None Include="integration.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
