@@ -3,6 +3,12 @@ Various submissions to the RosettaCode programming chrestomathy site.
 
 The site is called after the https://en.wikipedia.org/wiki/Rosetta_Stone - an ancient stele with identical text written in Greek and Egyptian; the stele was a key to deciphering previously unknown Egyptian writing. The RosettaCode site presents a number of simple programming tasks implemented in multiple programming languages each, thus exposing languages properties.
 
+## Chaos game
+
+https://github.com/chmykh/rosettacode/blob/master/rosettacode/chaos.fsx
+
+http://rosettacode.org/wiki/Chaos_game#F.23
+
 ## Numerical integration
 
 https://github.com/chmykh/rosettacode/blob/master/rosettacode/integration.fsx
