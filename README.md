@@ -61,3 +61,10 @@ http://rosettacode.org/wiki/Reverse_words_in_a_string#Forth
 https://github.com/chmykh/rosettacode/blob/master/comma_quibbling.fs
 
 http://rosettacode.org/wiki/Comma_quibbling#Forth
+
+## Snake
+
+https://github.com/chmykh/rosettacode/blob/master/snake.c
+
+http://rosettacode.org/wiki/Snake#C
+
